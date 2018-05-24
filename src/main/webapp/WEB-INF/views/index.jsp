@@ -13,7 +13,7 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
 
 <!-- You can also add external style sheets 
-add any external css or js files here in the project structure: src/resources/static -->
+add any external css or js files here in the project structure: src/main/resources/static -->
   <link rel="stylesheet" type="text/css" href="css/test.css">
 </head>
 <body>
@@ -39,7 +39,10 @@ add any external css or js files here in the project structure: src/resources/st
 
 	</p>
 	</div>
+	<!-- You can also add external style sheets 
+      add any external css or js files here in the project structure: src/main/resources/static -->
 	<!-- Add any javascript at the end of your file -->
+	<!-- Comment out the script tag below if you want the alert to stop popping up -->
 <script src="js/testing.js"></script> 
 </body>
 </html>
